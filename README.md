@@ -15,7 +15,7 @@
 - [InnoDB Performance Optimization Basics](https://www.percona.com/blog/2013/09/20/innodb-performance-optimization-basics-updated/)
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
-- [https://dev.mysql.com/doc/refman/5.7/en/table-cache.html](https://dev.mysql.com/doc/refman/5.7/en/table-cache.html)
+- [How MySQL Opens and Closes Tables](https://dev.mysql.com/doc/refman/5.7/en/table-cache.html)
 
 ## Talks
 
