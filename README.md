@@ -20,3 +20,7 @@
 ## Talks
 
 - [MySQL Performance Tuning: Part 1. Configuration (Covers MySQL 5.7)](https://www.youtube.com/watch?v=0CqMv0ucqFA)
+
+## Configuration
+
+- [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make recommendtions to increase performance and stability.
