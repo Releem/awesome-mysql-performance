@@ -11,7 +11,6 @@
 - [MAKING IT BETTER: BASIC MYSQL PERFORMANCE TUNING (MYSQLD)](https://mediatemple.net/community/products/dv/204404044/making-it-better%3A-basic-mysql-performance-tuning-(mysqld))
 - [MySQL 101: Tuning MySQL After Upgrading Memory](https://www.percona.com/blog/2020/09/30/mysql-101-tuning-mysql-after-upgrading-memory/)
 - [Is InnoDB Buffer Pool big enough?](https://vettabase.com/blog/is-innodb-buffer-pool-big-enough/) and [Can we shrink InnoDB Buffer Pool?](https://vettabase.com/blog/can-we-shrink-innodb-buffer-pool/)
-- [table_open_cache](https://releem.com/docs/mysql-performance-tuning/table_open_cache)
 - [InnoDB Performance Optimization Basics](https://www.percona.com/blog/2013/09/20/innodb-performance-optimization-basics-updated/)
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
@@ -34,6 +33,7 @@
 - [thread_cache_size](https://releem.com/docs/mysql-performance-tuning/thread_cache_size)
 - [thread_pool_size](https://releem.com/docs/mysql-performance-tuning/thread_pool_size)
 - [tmp_table_size](https://releem.com/docs/mysql-performance-tuning/tmp_table_size)
+- [table_open_cache](https://releem.com/docs/mysql-performance-tuning/table_open_cache)
 
 ## Talks
 
