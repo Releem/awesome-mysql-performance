@@ -50,7 +50,7 @@
 ### [tmp_table_size]
 
 ### [table_open_cache]
-- [Optimizing table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache/#:~:text=This%20improves%20performance%2C%20although%20it,any%20one%20table%20cache%20instance.&text=If%20the%20number%20of%20opened,at%20increasing%20the%20table_open_cache%20value.)
+- [Tuning table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache/#:~:text=This%20improves%20performance%2C%20although%20it,any%20one%20table%20cache%20instance.&text=If%20the%20number%20of%20opened,at%20increasing%20the%20table_open_cache%20value.)
 
 ## Talks
 
