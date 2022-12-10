@@ -1,4 +1,4 @@
-# Awesome-mysql-performance
+# Awesome-MySQL-performance
 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona configuration tuning for improved performance.
 
 ## Common MySQL Tuning articles
