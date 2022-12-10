@@ -21,7 +21,7 @@
 
 ### - [MySQL Performance Score](https://releem.com/docs/mysql-performance-score)
 
-## - MySQL Performance Tuning
+## MySQL Performance Tuning
 
 - [innodb_buffer_pool_chunk_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_chunk_size)
 - [innodb_buffer_pool_instances](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_instances)
