@@ -17,9 +17,9 @@
 
 - [Cancelation](https://releem.com/docs/getstarted#rec428397985)
 
-### - [MySQL Performance Parameters](https://releem.com/docs/mysql-performance-parameters)
+### [MySQL Performance Parameters](https://releem.com/docs/mysql-performance-parameters)
 
-### - [MySQL Performance Score](https://releem.com/docs/mysql-performance-score)
+### [MySQL Performance Score](https://releem.com/docs/mysql-performance-score)
 
 ## MySQL Performance Tuning
 
