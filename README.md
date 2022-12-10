@@ -3,8 +3,6 @@
 
 ## Articles
 
-## How to Tune MySQL
-
 - [Ten MySQL performance tuning settings after installation](https://www.percona.com/blog/2014/01/28/10-mysql-performance-tuning-settings-after-installation/)
 - [MySQL Server and SQL Performance Tuning](https://www.oracle.com/technetwork/community/developer-day/mysql-performance-tuning-403029.pdf)
 - [101 Tips to MySQL Tuning and Optimization](https://www.monitis.com/blog/101-tips-to-mysql-tuning-and-optimization/)
