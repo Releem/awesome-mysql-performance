@@ -72,6 +72,9 @@
 ### table_open_cache
 - [Tuning table_open_cache](https://releem.com/docs/mysql-performance-tuning/table_open_cache)
 - [Optimize table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache)
+### bulk_insert_buffer_size
+- [Tuning bulk_insert_buffer_size](https://releem.com/docs/mysql-performance-tuning/bulk_insert_buffer_size)
+- [How to set bulk_insert_buffer_size in mysql?](https://dba.stackexchange.com/questions/54197/how-to-set-bulk-insert-buffer-size-in-mysql)
 
 ## Talks
 
