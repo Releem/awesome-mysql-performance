@@ -71,7 +71,7 @@
 - [MySQL tmp_table_size optimization settings for how much appropriate _mysql](https://topic.alibabacloud.com/a/mysql-tmp_table_size-optimization-settings-for-how-much-appropriate-_mysql_1_41_20122890.html)
 ### table_open_cache
 - [Tuning table_open_cache](https://releem.com/docs/mysql-performance-tuning/table_open_cache)
-- [Optimize table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache/#:~:text=This%20improves%20performance%2C%20although%20it,any%20one%20table%20cache%20instance.&text=If%20the%20number%20of%20opened,at%20increasing%20the%20table_open_cache%20value.)
+- [Optimize table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache)
 
 ## Talks
 
