@@ -78,7 +78,7 @@
 - [Optimizing key_buffer_size](https://mariadb.com/kb/en/optimizing-key_buffer_size/)																									
 - [MySQL key_buffer_size](https://dev.mysql.com/doc/refman/8.0/en/server-system-variables.html#sysvar_key_buffer_size)																								
 - [Introduction to MySQL key_buffer_size](https://www.educba.com/mysql-key_buffer_size/)																									
-- [MySQL: Is it safe to set `key_buffer_size` to 0 if the db doesn't have any MyISAM table?](https://dba.stackexchange.com/questions/240210/mysql-is-it-safe-to-set-key-buffer-size-to-0-if-the-db-doesnt-have-any-myisa)																									
+- [MySQL: Is it safe to set key_buffer_size to 0 if the db doesn't have any MyISAM table?](https://dba.stackexchange.com/questions/240210/mysql-is-it-safe-to-set-key-buffer-size-to-0-if-the-db-doesnt-have-any-myisa)																									
 - [Should I increase my key_buffer_size?](https://www.youtube.com/watch?v=5yEULP9d3l0)																									
 - [Tuning key_buffer_size](https://releem.com/docs/mysql-performance-tuning/key_buffer_size)																									
 ### max_allowed_packet																									
