@@ -16,20 +16,34 @@
 
 ### innodb_buffer_pool_chunk_size
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
+- [Configuring InnoDB Buffer Pool Size](https://dev.mysql.com/doc/refman/5.7/en/innodb-buffer-pool-resize.html)
+- [Setting Innodb Buffer Pool Size Dynamically](https://mariadb.com/kb/en/setting-innodb-buffer-pool-size-dynamically/)
+- [MySQL InnoDB buffer pool configuration | Role of InnoDB buffer pool chunk size and Instances](https://www.youtube.com/watch?v=c-xyooZyPW0)
 - [Tuning innodb_buffer_pool_chunk_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_chunk_size)
 ### innodb_buffer_pool_instances
-- [Tuning innodb_buffer_pool_instances](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_instances)
 - [How Many innodb_buffer_pool_instances Do You Need in MySQL 8?](https://www.percona.com/blog/2020/08/13/how-many-innodb_buffer_pool_instances-do-you-need-in-mysql-8/)
+- [Configuring Multiple Buffer Pool Instances](https://dev.mysql.com/doc/refman/5.6/en/innodb-multiple-buffer-pools.html)
+- [InnoDB Buffer Pool](https://mariadb.com/kb/en/innodb-buffer-pool/#innodb_buffer_pool_instances)
+- [MySQL InnoDB buffer pool configuration | Role of InnoDB buffer pool chunk size and Instances](https://www.youtube.com/watch?v=c-xyooZyPW0)
+- [Tuning innodb_buffer_pool_instances](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_instances)
 ### innodb_buffer_pool_size
-- [Tuning innodb_buffer_pool_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_size)
-- [Innodb_buffer_pool_size – Is 80% of RAM the right amount?](https://www.percona.com/blog/2015/06/02/80-ram-tune-innodb_buffer_pool_size/)
+- [How large should be mysql innodb_buffer_pool_size?](https://dba.stackexchange.com/questions/27328/how-large-should-be-mysql-innodb-buffer-pool-size)
 - [Is InnoDB Buffer Pool big enough?](https://vettabase.com/blog/is-innodb-buffer-pool-big-enough/) and [Can we shrink InnoDB Buffer Pool?](https://vettabase.com/blog/can-we-shrink-innodb-buffer-pool/)
+- [InnoDB Buffer Pool](https://mariadb.com/kb/en/innodb-buffer-pool/#innodb_buffer_pool_size)
+- [Databases: Setting innodb_buffer_pool_size in for Mysql](https://www.youtube.com/watch?v=rIxCsQYOjew)
+- [Tuning innodb_buffer_pool_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_size)
 ### innodb_flush_log_at_trx_commit
-- [Tuning innodb_flush_log_at_trx_commit](https://releem.com/docs/mysql-performance-tuning/innodb_flush_log_at_trx_commit)
 - [Is it safe to use innodb_flush_log_at_trx_commit = 2?](https://dba.stackexchange.com/questions/12611/is-it-safe-to-use-innodb-flush-log-at-trx-commit-2)
+- [MariaDB innodb_flush_log_at_trx_commit](https://mariadb.com/docs/server/ref/mdb/system-variables/innodb_flush_log_at_trx_commit/)
+- [Description of innodb_flush_log_at_trx_commit and sync_binlog](https://support.huaweicloud.com/intl/en-us/bestpractice-rds/rds_02_0010.html)
+- [Tuning innodb_flush_log_at_trx_commit](https://releem.com/docs/mysql-performance-tuning/innodb_flush_log_at_trx_commit)
+- [Databases: MySQL innodb_flush_log_at_trx_commit clarification](https://www.youtube.com/watch?v=05zW-wFXNj8)
 ### innodb_flush_method
-- [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
 - [MySQL (innodb) performance tuning](https://www.ilsistemista.net/index.php/linux-a-unix/26-mysql-performance-tuning.html?start=4)
+- [MariaDB innodb_flush_method](https://mariadb.com/kb/en/innodb-system-variables/#innodb_flush_method)
+- [MySQL innodb_flush_method](https://dev.mysql.com/doc/refman/8.0/en/innodb-parameters.html#sysvar_innodb_flush_method)
+- [Clarification on MySQL innodb_flush_method variable](https://www.youtube.com/watch?v=Ak-Miuio4ks)
+- [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
