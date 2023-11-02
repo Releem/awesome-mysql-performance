@@ -74,8 +74,8 @@
 - [How to change max allowed packet size for mysql](https://www.youtube.com/watch?v=zDaaG8hFYlk)
 - [Tuning max_allowed_packet](https://releem.com/docs/mysql-performance-tuning/max_allowed_packet)
 ### max_connections
-- [What does max_connections really mean?)(https://stackoverflow.com/questions/8686291/what-does-max-connections-really-mean)
-- [Mysql - when increase 'max_connections', what other paramters to adjust accordingly?(https://dba.stackexchange.com/questions/282622/mysql-when-increase-max-connections-what-other-paramters-to-adjust-accordin)
+- [What does max_connections really mean?](https://stackoverflow.com/questions/8686291/what-does-max-connections-really-mean)
+- [Mysql - when increase 'max_connections', what other paramters to adjust accordingly?](https://dba.stackexchange.com/questions/282622/mysql-when-increase-max-connections-what-other-paramters-to-adjust-accordin)
 - [MySQL : How to increase the MySQL max connections value](https://www.youtube.com/watch?v=tEHzwkgOzAQ)
 - [Tuning max_connections](https://releem.com/docs/mysql-performance-tuning/max_connections)
 ### max_heap_table_size
