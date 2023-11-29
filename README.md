@@ -23,6 +23,7 @@
 ### innodb_buffer_pool_instances
 - [Tuning innodb_buffer_pool_instances](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_instances)
 - [How Many innodb_buffer_pool_instances Do You Need in MySQL 8?](https://www.percona.com/blog/2020/08/13/how-many-innodb_buffer_pool_instances-do-you-need-in-mysql-8/)
+- [Video] [MySQL InnoDB buffer pool configuration | Role of InnoDB buffer pool chunk size and Instances](https://www.youtube.com/watch?v=c-xyooZyPW0)
 ### innodb_buffer_pool_size
 - [Tuning innodb_buffer_pool_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_size)
 - [Innodb_buffer_pool_size – Is 80% of RAM the right amount?](https://www.percona.com/blog/2015/06/02/80-ram-tune-innodb_buffer_pool_size/)
