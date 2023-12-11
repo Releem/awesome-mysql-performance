@@ -36,6 +36,7 @@
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
+- [Video] [Databases: How to safely change MySQL innodb variable 'innodb_log_file_size'?](https://www.youtube.com/watch?v=zvVIfwZRQTQ&t=9s)
 ### innodb_read_io_threads
 - [Tuning innodb_read_io_threads](https://releem.com/docs/mysql-performance-tuning/innodb_read_io_threads)
 - [How do you tune innodb_read_io_threads?](https://dba.stackexchange.com/questions/299461/how-do-you-tune-innodb-read-io-threads)
