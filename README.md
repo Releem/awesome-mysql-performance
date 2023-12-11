@@ -45,6 +45,7 @@
 ### join_buffer_size
 - [Tuning join_buffer_size](https://releem.com/docs/mysql-performance-tuning/join_buffer_size)
 - [Tuning MySQL my.cnf? Avoid this common pitfall!](https://haydenjames.io/my-cnf-tuning-avoid-this-common-pitfall/)
+- [How to set oin_buffer_size in my.cnf file?](https://www.youtube.com/watch?v=XA_6U8Cl3aU)
 ### key_buffer_size
 - [Tuning key_buffer_size](https://releem.com/docs/mysql-performance-tuning/key_buffer_size)
 - [Optimizing key_buffer_size](https://mariadb.com/kb/en/optimizing-key_buffer_size/)
