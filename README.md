@@ -48,6 +48,7 @@
 ### key_buffer_size
 - [Tuning key_buffer_size](https://releem.com/docs/mysql-performance-tuning/key_buffer_size)
 - [Optimizing key_buffer_size](https://mariadb.com/kb/en/optimizing-key_buffer_size/)
+- [Can we assign mysql Key_buffer_size value for particular table?](https://www.youtube.com/watch?v=n0WuxBYNgIY)
 ### max_allowed_packet
 - [Tuning max_allowed_packet](https://releem.com/docs/mysql-performance-tuning/max_allowed_packet)
 - [How to change max_allowed_packet size](https://stackoverflow.com/questions/8062496/how-to-change-max-allowed-packet-size)
