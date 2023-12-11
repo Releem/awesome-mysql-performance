@@ -51,6 +51,8 @@
 ### max_allowed_packet
 - [Tuning max_allowed_packet](https://releem.com/docs/mysql-performance-tuning/max_allowed_packet)
 - [How to change max_allowed_packet size](https://stackoverflow.com/questions/8062496/how-to-change-max-allowed-packet-size)
+- [How to Change the Default Maximum Packets Allowed in MySQL](https://linuxhint.com/change-default-maximum-packets-mysql/)
+- [How to change max allowed packet size for mysql](https://www.youtube.com/watch?v=zDaaG8hFYlk)
 ### max_connections
 - [Tuning max_connections](https://releem.com/docs/mysql-performance-tuning/max_connections)
 - [Max Connection Tuning with MariaDB Enterprise Server](https://mariadb.com/docs/skysql/connect/connections/max-connections/es/)
