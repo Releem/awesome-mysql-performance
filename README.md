@@ -12,6 +12,10 @@
 - [MySQL 101: Tuning MySQL After Upgrading Memory](https://www.percona.com/blog/2020/09/30/mysql-101-tuning-mysql-after-upgrading-memory/)
 - [How MySQL Opens and Closes Tables](https://dev.mysql.com/doc/refman/5.7/en/table-cache.html)
 
+## Books
+- [High Performance MySQL](https://www.amazon.co.uk/dp/1449314287)
+- [Indexing beyound the basics](https://sqlfordevs.com/ebooks/indexing)
+
 ## MySQL/MariaDB Variables tuning
 
 ### aria_pagecache_buffer_size
