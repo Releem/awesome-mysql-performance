@@ -36,7 +36,8 @@
 - [Is it safe to use innodb_flush_log_at_trx_commit = 2?](https://dba.stackexchange.com/questions/12611/is-it-safe-to-use-innodb-flush-log-at-trx-commit-2)
 ### innodb_flush_method
 - [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
-- [MySQL (innodb) performance tuning](https://www.ilsistemista.net/index.php/linux-a-unix/26-mysql-performance-tuning.html?start=4)
+- [Configuring innodb_flush_method system variable for InnoDB performance](https://minervadb.xyz/configuring-innodb_flush_method-system-variable-for-innodb-performance/)
+- [Video] [Where is the MySQL variable - innodb_flush_method?](https://www.youtube.com/watch?v=8VPh_UHhXcI)
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
