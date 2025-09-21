@@ -17,6 +17,12 @@
 *Comprehensive guide covering MySQL internals, query optimization, indexing strategies, and high-availability configurations.*
 - [Indexing beyound the basics](https://sqlfordevs.com/ebooks/indexing)
 *In-depth exploration of indexing techniques, covering complex queries, composite indexes, and performance tuning best practices.*
+- [SQL Performance Explained](https://sql-performance-explained.com/)
+*A deep explanation of how SQL executes queries, how indexes, joins, and sorts work, and how to optimize query execution plans.*
+- [SQL Antipatterns: Avoiding the Pitfalls of Database Programming](https://pragprog.com/titles/bksqla/sql-antipatterns/)
+*Shows common mistakes in database design and queries, and provides examples of how to avoid them to improve performance.*
+- [The Art of SQL](https://www.amazon.com/Art-SQL-Stephane-Faroult/dp/0596008945/)
+*The philosophy of effective SQL: how to properly structure queries and databases for performance and scalability.*
 
 ## MySQL/MariaDB Variables tuning
 
