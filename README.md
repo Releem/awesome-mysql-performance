@@ -14,7 +14,9 @@
 
 ## Books
 - [High Performance MySQL](https://www.amazon.co.uk/dp/1449314287)
+*Comprehensive guide covering MySQL internals, query optimization, indexing strategies, and high-availability configurations.*
 - [Indexing beyound the basics](https://sqlfordevs.com/ebooks/indexing)
+*In-depth exploration of indexing techniques, covering complex queries, composite indexes, and performance tuning best practices.*
 
 ## MySQL/MariaDB Variables tuning
 
