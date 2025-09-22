@@ -28,6 +28,9 @@
 
 ### aria_pagecache_buffer_size
 - [Finding an optimal size for Aria Pagecache](https://vettabase.com/sizing-aria-pagecache/)
+- [Aria Pagecache Sizing: Balancing Performance and Resources](https://dbpediablogs.wordpress.com/2023/10/26/aria-pagecache-sizing-balancing-performance-and-resources/)
+- [Can you cache the indexes and data for Aria Storage Engine tables?](https://dba.stackexchange.com/questions/283584/in-mariadb-can-you-cache-the-indexes-and-data-for-aria-storage-engine-tables)
+- [Video] [Understanding the Page Cache in MariaDB: Is it Shared Across Database Connections?] (https://www.youtube.com/watch?v=3PvV6ha77bM)
 ### innodb_buffer_pool_chunk_size
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
 - [Tuning innodb_buffer_pool_chunk_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_chunk_size)
