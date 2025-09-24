@@ -45,6 +45,10 @@
 - [Tuning innodb_change_buffering](https://releem.com/docs/mysql-performance-tuning/innodb_change_buffering)  
 - [MySQL Change Buffer – What When and FAQ](https://kedar.nitty-witty.com/blog/mysql-change-buffer-what-when-and-faq?utm_source=chatgpt.com)  
 - [Video] [InnoDB Change Buffer Explained (index buffering in InnoDB)](https://www.youtube.com/watch?v=x94XGRymwI4)
+### innodb_file_per_table  
+- [Tuning innodb_file_per_table](https://releem.com/docs/mysql-performance-tuning/innodb_file_per_table)  
+- [How to reclaim space in InnoDB when innodb_file_per_table is ON](https://www.percona.com/blog/how-to-reclaim-space-in-innodb-when-innodb_file_per_table-is-on/)  
+- [Video] [MySQL Performance Tuning: Part 1. Configuration (Covers MySQL 5.7)](https://www.youtube.com/watch?v=0CqMv0ucqFA)
 ### innodb_flush_log_at_trx_commit
 - [Tuning innodb_flush_log_at_trx_commit](https://releem.com/docs/mysql-performance-tuning/innodb_flush_log_at_trx_commit)
 - [Is it safe to use innodb_flush_log_at_trx_commit = 2?](https://dba.stackexchange.com/questions/12611/is-it-safe-to-use-innodb-flush-log-at-trx-commit-2)
