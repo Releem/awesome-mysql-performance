@@ -33,7 +33,6 @@
 ### innodb_buffer_pool_chunk_size
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
 - [Tuning innodb_buffer_pool_chunk_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_chunk_size)
-- [Dynamically Resizing the InnoDB Buffer Pool in MySQL](https://medium.com/@Monika_Yadav/dynamically-resizing-the-innodb-buffer-pool-in-mysql-what-you-should-know-93230745e3bc)
 - [Video] [MySQL InnoDB buffer pool configuration | Role of InnoDB buffer pool chunk size and Instances](https://www.youtube.com/watch?v=c-xyooZyPW0)
 ### innodb_buffer_pool_instances
 - [Tuning innodb_buffer_pool_instances](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_instances)
