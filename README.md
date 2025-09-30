@@ -101,6 +101,9 @@
 ### optimizer_search_depth
 - [Tuning optimizer_search_depth](https://releem.com/docs/mysql-performance-tuning/optimizer_search_depth)
 - [Setting optimizer search depth in MySQL | MariaDB](https://mariadb.com/resources/blog/setting-optimizer-search-depth-in-mysql/)
+### query_cache_type
+- [Tuning query_cache_type](https://releem.com/docs/mysql-performance-tuning/query_cache_type)
+- [Query Cache - Setting Up the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#setting-up-the-query-cache)
 ### read_rnd_buffer_size
 - [Tuning read_rnd_buffer_size](https://releem.com/docs/mysql-performance-tuning/read_rnd_buffer_size)
 - [MySQL: What read_buffer_size Value is Optimal?](https://www.percona.com/blog/2007/09/17/mysql-what-read_buffer_size-value-is-optimal/)
