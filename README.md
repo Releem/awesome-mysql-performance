@@ -7,19 +7,29 @@
 - [MySQL Server and SQL Performance Tuning](https://www.oracle.com/technetwork/community/developer-day/mysql-performance-tuning-403029.pdf)
 - [MySQL Performance Cheat Sheet](https://severalnines.com/database-blog/mysql-performance-cheat-sheet)
 - [Performance Tuning and Configurations for your MySQL Server](https://www.universalclass.com/articles/computers/performance-tuning-and-configurations-for-your-mysql-server.htm)
-- [MAKING IT BETTER: BASIC MYSQL PERFORMANCE TUNING (MYSQLD)](https://mediatemple.net/community/products/dv/204404044/making-it-better%3A-basic-mysql-performance-tuning-(mysqld))
+- [MySQL Tuning: Getting the most out of your database](https://www.databasedesign-resource.com/mysql-tuning.html)
 - [InnoDB Performance Optimization Basics](https://www.percona.com/blog/2013/09/20/innodb-performance-optimization-basics-updated/)
 - [MySQL 101: Tuning MySQL After Upgrading Memory](https://www.percona.com/blog/2020/09/30/mysql-101-tuning-mysql-after-upgrading-memory/)
 - [How MySQL Opens and Closes Tables](https://dev.mysql.com/doc/refman/5.7/en/table-cache.html)
 
 ## Books
 - [High Performance MySQL](https://www.amazon.co.uk/dp/1449314287)
+*Comprehensive guide covering MySQL internals, query optimization, indexing strategies, and high-availability configurations.*
 - [Indexing beyound the basics](https://sqlfordevs.com/ebooks/indexing)
+*In-depth exploration of indexing techniques, covering complex queries, composite indexes, and performance tuning best practices.*
+- [SQL Performance Explained](https://sql-performance-explained.com/)
+*A deep explanation of how SQL executes queries, how indexes, joins, and sorts work, and how to optimize query execution plans.*
+- [SQL Antipatterns: Avoiding the Pitfalls of Database Programming](https://pragprog.com/titles/bksqla/sql-antipatterns/)
+*Shows common mistakes in database design and queries, and provides examples of how to avoid them to improve performance.*
+- [The Art of SQL](https://www.amazon.com/Art-SQL-Stephane-Faroult/dp/0596008945/)
+*The philosophy of effective SQL: how to properly structure queries and databases for performance and scalability.*
 
 ## MySQL/MariaDB Variables tuning
 
 ### aria_pagecache_buffer_size
 - [Finding an optimal size for Aria Pagecache](https://vettabase.com/sizing-aria-pagecache/)
+- [Aria Pagecache Sizing: Balancing Performance and Resources](https://dbpediablogs.wordpress.com/2023/10/26/aria-pagecache-sizing-balancing-performance-and-resources/)
+- [Video] [Understanding the Page Cache in MariaDB: Is it Shared Across Database Connections?](https://www.youtube.com/watch?v=3PvV6ha77bM)
 ### innodb_buffer_pool_chunk_size
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
 - [Tuning innodb_buffer_pool_chunk_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_chunk_size)
@@ -31,18 +41,42 @@
 - [Tuning innodb_buffer_pool_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_size)
 - [Innodb_buffer_pool_size – Is 80% of RAM the right amount?](https://www.percona.com/blog/2015/06/02/80-ram-tune-innodb_buffer_pool_size/)
 - [Is InnoDB Buffer Pool big enough?](https://vettabase.com/blog/is-innodb-buffer-pool-big-enough/) and [Can we shrink InnoDB Buffer Pool?](https://vettabase.com/blog/can-we-shrink-innodb-buffer-pool/)
+### innodb_change_buffering
+- [Tuning innodb_change_buffering](https://releem.com/docs/mysql-performance-tuning/innodb_change_buffering)
+- [MySQL Change Buffer – What When and FAQ](https://kedar.nitty-witty.com/blog/mysql-change-buffer-what-when-and-faq?utm_source=chatgpt.com)
+### innodb_file_per_table  
+- [Tuning innodb_file_per_table](https://releem.com/docs/mysql-performance-tuning/innodb_file_per_table)  
+- [How to reclaim space in InnoDB when innodb_file_per_table is ON](https://www.percona.com/blog/how-to-reclaim-space-in-innodb-when-innodb_file_per_table-is-on/)
 ### innodb_flush_log_at_trx_commit
 - [Tuning innodb_flush_log_at_trx_commit](https://releem.com/docs/mysql-performance-tuning/innodb_flush_log_at_trx_commit)
 - [Is it safe to use innodb_flush_log_at_trx_commit = 2?](https://dba.stackexchange.com/questions/12611/is-it-safe-to-use-innodb-flush-log-at-trx-commit-2)
 ### innodb_flush_method
 - [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
 - [MySQL (innodb) performance tuning](https://www.ilsistemista.net/index.php/linux-a-unix/26-mysql-performance-tuning.html?start=4)
+### innodb_log_buffer_size
+- [Tuning innodb_log_buffer_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_buffer_size)
+- [innodb_log_buffer_size: Configure InnoDB Log Buffer Size](https://www.mysqltutorial.org/mysql-administration/innodb_log_buffer_size/)
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
+### innodb_max_dirty_pages_pct
+- [Tuning innodb_max_dirty_pages_pct](https://releem.com/docs/mysql-performance-tuning/innodb_max_dirty_pages_pct)
+- [What the Flush? - Hack MySQL](https://hackmysql.com/what-the-flush-mysql-dirty-pages/)
+### innodb_page_cleaners
+- [Tuning innodb_page_cleaners](https://releem.com/docs/mysql-performance-tuning/innodb_page_cleaners)
+- [Fun with innodb_page_cleaners](http://smalldatum.blogspot.com/2023/07/fun-with-innodbpagecleaners.html)
+### innodb_purge_threads
+- [Tuning innodb_purge_threads](https://releem.com/docs/mysql-performance-tuning/innodb_purge_threads)
+- [InnoDB Purge](https://mariadb.com/docs/server/server-usage/storage-engines/innodb/innodb-purge)
 ### innodb_read_io_threads
 - [Tuning innodb_read_io_threads](https://releem.com/docs/mysql-performance-tuning/innodb_read_io_threads)
 - [How do you tune innodb_read_io_threads?](https://dba.stackexchange.com/questions/299461/how-do-you-tune-innodb-read-io-threads)
+### innodb_redo_log_capacity
+- [Tuning innodb_redo_log_capacity](https://releem.com/docs/mysql-performance-tuning/innodb_redo_log_capacity)
+- [InnoDB Redo Log](https://mariadb.com/docs/server/server-usage/storage-engines/innodb/innodb-redo-log)
+### innodb_thread_concurrency
+- [Tuning innodb_thread_concurrency](https://releem.com/docs/mysql-performance-tuning/innodb_thread_concurrency)
+- [Optimizing MySQL Throughput: Fine-Tuning InnoDB Thread Concurrency](https://minervadb.xyz/optimizing-mysql-throughput-fine-tuning-innodb-thread-concurrency/)
 ### innodb_write_io_threads
 - [Tuning innodb_write_io_threads](https://releem.com/docs/mysql-performance-tuning/innodb_write_io_threads)
 - [How do you tune innodb_read_io_threads?](https://dba.stackexchange.com/questions/299461/how-do-you-tune-innodb-read-io-threads)
@@ -61,6 +95,24 @@
 ### max_heap_table_size
 - [Tuning max_heap_table_size](https://releem.com/docs/mysql-performance-tuning/max_heap_table_size)
 - [Rule of thumb for tmp_table_size and max_heap_table_size MySQL properties](https://dba.stackexchange.com/questions/209411/rule-of-thumb-for-tmp-table-size-and-max-heap-table-size-mysql-properties)
+### myisam_sort_buffer_size
+- [Tuning myisam_sort_buffer_size](https://releem.com/docs/mysql-performance-tuning/myisam_sort_buffer_size)
+- [Working With MyISAM in MySQL](https://severalnines.com/blog/working-myisam-mysql/)
+### optimizer_search_depth
+- [Tuning optimizer_search_depth](https://releem.com/docs/mysql-performance-tuning/optimizer_search_depth)
+- [Setting optimizer search depth in MySQL | MariaDB](https://mariadb.com/resources/blog/setting-optimizer-search-depth-in-mysql/)
+### query_cache_type
+- [Tuning query_cache_type](https://releem.com/docs/mysql-performance-tuning/query_cache_type)
+- [Query Cache - Setting Up the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#setting-up-the-query-cache)
+### query_cache_size
+- [Tuning query_cache_size](https://releem.com/docs/mysql-performance-tuning/query_cache_size)
+- [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
+### query_cache_limit
+- [Tuning query_cache_limit](https://releem.com/docs/mysql-performance-tuning/query_cache_limit)
+- [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
+### query_cache_min_res_unit
+- [Tuning query_cache_min_res_unit](https://releem.com/docs/mysql-performance-tuning/query_cache_min_res_unit)
+- [What is the best setting for query_cache_min_res_unit](https://dba.stackexchange.com/questions/42993/mysql-settings-for-query-cache-min-res-unit)
 ### read_rnd_buffer_size
 - [Tuning read_rnd_buffer_size](https://releem.com/docs/mysql-performance-tuning/read_rnd_buffer_size)
 - [MySQL: What read_buffer_size Value is Optimal?](https://www.percona.com/blog/2007/09/17/mysql-what-read_buffer_size-value-is-optimal/)
