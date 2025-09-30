@@ -62,6 +62,9 @@
 ### innodb_max_dirty_pages_pct
 - [Tuning innodb_max_dirty_pages_pct](https://releem.com/docs/mysql-performance-tuning/innodb_max_dirty_pages_pct)
 - [What the Flush? - Hack MySQL](https://hackmysql.com/what-the-flush-mysql-dirty-pages/)
+### innodb_page_cleaners
+- [Tuning innodb_page_cleaners](https://releem.com/docs/mysql-performance-tuning/innodb_page_cleaners)
+- [Fun with innodb_page_cleaners](http://smalldatum.blogspot.com/2023/07/fun-with-innodbpagecleaners.html)
 ### innodb_read_io_threads
 - [Tuning innodb_read_io_threads](https://releem.com/docs/mysql-performance-tuning/innodb_read_io_threads)
 - [How do you tune innodb_read_io_threads?](https://dba.stackexchange.com/questions/299461/how-do-you-tune-innodb-read-io-threads)
