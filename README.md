@@ -37,6 +37,9 @@
 ### innodb_flush_method
 - [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
 - [MySQL (innodb) performance tuning](https://www.ilsistemista.net/index.php/linux-a-unix/26-mysql-performance-tuning.html?start=4)
+### innodb_log_buffer_size
+- [Tuning innodb_log_buffer_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_buffer_size)
+- [innodb_log_buffer_size: Configure InnoDB Log Buffer Size](https://www.mysqltutorial.org/mysql-administration/innodb_log_buffer_size/)
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
