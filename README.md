@@ -131,6 +131,9 @@
 ### thread_pool_size
 - [Tuning thread_pool_size](https://releem.com/docs/mysql-performance-tuning/thread_pool_size)
 - [Thread Pool Tuning](https://dev.mysql.com/doc/refman/8.0/en/thread-pool-tuning.html)
+### thread_stack
+- [Tuning thread_stack](https://releem.com/docs/mysql-performance-tuning/thread_stack)
+- [Server System Variables - thread_stack](https://dev.mysql.com/doc/refman/8.0/en/server-system-variables.html#sysvar_thread_stack)
 ### tmp_table_size
 - [Tuning tmp_table_size](https://releem.com/docs/mysql-performance-tuning/tmp_table_size)
 - [MySQL tmp_table_size optimization settings for how much appropriate _mysql](https://topic.alibabacloud.com/a/mysql-tmp_table_size-optimization-settings-for-how-much-appropriate-_mysql_1_41_20122890.html)
