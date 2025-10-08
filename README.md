@@ -48,6 +48,9 @@
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
+### innodb_max_dirty_pages_pct
+- [Tuning innodb_max_dirty_pages_pct](https://releem.com/docs/mysql-performance-tuning/innodb_max_dirty_pages_pct)
+- [What the Flush? - Hack MySQL](https://hackmysql.com/what-the-flush-mysql-dirty-pages/)
 ### innodb_page_cleaners
 - [Tuning innodb_page_cleaners](https://releem.com/docs/mysql-performance-tuning/innodb_page_cleaners)
 - [Fun with innodb_page_cleaners](http://smalldatum.blogspot.com/2023/07/fun-with-innodbpagecleaners.html)
