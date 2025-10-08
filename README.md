@@ -73,6 +73,9 @@
 ### max_heap_table_size
 - [Tuning max_heap_table_size](https://releem.com/docs/mysql-performance-tuning/max_heap_table_size)
 - [Rule of thumb for tmp_table_size and max_heap_table_size MySQL properties](https://dba.stackexchange.com/questions/209411/rule-of-thumb-for-tmp-table-size-and-max-heap-table-size-mysql-properties)
+### query_cache_limit
+- [Tuning query_cache_limit](https://releem.com/docs/mysql-performance-tuning/query_cache_limit)
+- [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
 ### query_cache_min_res_unit
 - [Tuning query_cache_min_res_unit](https://releem.com/docs/mysql-performance-tuning/query_cache_min_res_unit)
 - [What is the best setting for query_cache_min_res_unit](https://dba.stackexchange.com/questions/42993/mysql-settings-for-query-cache-min-res-unit)
