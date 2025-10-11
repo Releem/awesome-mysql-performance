@@ -54,6 +54,9 @@
 ### innodb_read_io_threads
 - [Tuning innodb_read_io_threads](https://releem.com/docs/mysql-performance-tuning/innodb_read_io_threads)
 - [How do you tune innodb_read_io_threads?](https://dba.stackexchange.com/questions/299461/how-do-you-tune-innodb-read-io-threads)
+### innodb_thread_concurrency
+- [Tuning innodb_thread_concurrency](https://releem.com/docs/mysql-performance-tuning/innodb_thread_concurrency)
+- [Optimizing MySQL Throughput: Fine-Tuning InnoDB Thread Concurrency](https://minervadb.xyz/optimizing-mysql-throughput-fine-tuning-innodb-thread-concurrency/)
 ### innodb_redo_log_capacity
 - [Tuning innodb_redo_log_capacity](https://releem.com/docs/mysql-performance-tuning/innodb_redo_log_capacity)
 - [InnoDB Redo Log](https://mariadb.com/docs/server/server-usage/storage-engines/innodb/innodb-redo-log)
