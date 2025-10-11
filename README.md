@@ -90,6 +90,9 @@
 ### sort_buffer_size
 - [Tuning sort_buffer_size](https://releem.com/docs/mysql-performance-tuning/sort_buffer_size)
 - [MySQL sort_buffer_size](https://www.educba.com/mysql-sort_buffer_size/)
+### table_definition_cache
+- [Tuning table_definition_cache](https://releem.com/docs/mysql-performance-tuning/table_definition_cache)
+- [MariaDB/MySQL – Table Open Cache & Table Definition Cache](https://sqlconjuror.com/mariadb-mysql-table-open-cache-table-definition-cache/)
 ### thread_cache_size
 - [Tuning thread_cache_size](https://releem.com/docs/mysql-performance-tuning/thread_cache_size)
 - [MySQL Optimization Tip – Thread Cache Size](https://www.navisite.com/blog/mysql-optimization-tip-thread-cache-size/)
