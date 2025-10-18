@@ -139,7 +139,6 @@
 - [MySQL tmp_table_size optimization settings for how much appropriate _mysql](https://topic.alibabacloud.com/a/mysql-tmp_table_size-optimization-settings-for-how-much-appropriate-_mysql_1_41_20122890.html)
 ### transaction_prealloc_size
 - [Tuning transaction_prealloc_size](https://releem.com/docs/mysql-performance-tuning/transaction_prealloc_size)
-- [Server System Variables - transaction_prealloc_size](https://dev.mysql.com/doc/refman/8.4/en/server-system-variables.html#sysvar_transaction_prealloc_size)
 ### table_open_cache
 - [Tuning table_open_cache](https://releem.com/docs/mysql-performance-tuning/table_open_cache)
 - [Optimize table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache)
