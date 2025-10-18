@@ -100,7 +100,6 @@
 - [Working With MyISAM in MySQL](https://severalnines.com/blog/working-myisam-mysql/)
 ### optimizer_search_depth
 - [Tuning optimizer_search_depth](https://releem.com/docs/mysql-performance-tuning/optimizer_search_depth)
-- [Setting optimizer search depth in MySQL | MariaDB](https://mariadb.com/resources/blog/setting-optimizer-search-depth-in-mysql/)
 ### query_cache_type
 - [Tuning query_cache_type](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748250544)
 ### query_cache_size
