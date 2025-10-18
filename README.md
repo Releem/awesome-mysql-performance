@@ -33,6 +33,9 @@
 - [Tuning innodb_buffer_pool_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_size)
 - [Innodb_buffer_pool_size – Is 80% of RAM the right amount?](https://www.percona.com/blog/2015/06/02/80-ram-tune-innodb_buffer_pool_size/)
 - [Is InnoDB Buffer Pool big enough?](https://vettabase.com/blog/is-innodb-buffer-pool-big-enough/) and [Can we shrink InnoDB Buffer Pool?](https://vettabase.com/blog/can-we-shrink-innodb-buffer-pool/)
+### innodb_change_buffering
+- [Tuning innodb_change_buffering](https://releem.com/docs/mysql-performance-tuning/innodb_change_buffering)
+- [MySQL Change Buffer – What When and FAQ](https://kedar.nitty-witty.com/blog/mysql-change-buffer-what-when-and-faq?utm_source=chatgpt.com)
 ### innodb_file_per_table
 - [Tuning innodb_file_per_table](https://releem.com/docs/mysql-performance-tuning/innodb_file_per_table)
 - [How to reclaim space in InnoDB when innodb_file_per_table is ON](https://www.percona.com/blog/how-to-reclaim-space-in-innodb-when-innodb_file_per_table-is-on/)
@@ -48,12 +51,18 @@
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
+### innodb_purge_threads
+- [Tuning innodb_purge_threads](https://releem.com/docs/mysql-performance-tuning/innodb_purge_threads)
+- [InnoDB Purge](https://mariadb.com/docs/server/server-usage/storage-engines/innodb/innodb-purge)
 ### innodb_page_cleaners
 - [Tuning innodb_page_cleaners](https://releem.com/docs/mysql-performance-tuning/innodb_page_cleaners)
 - [Fun with innodb_page_cleaners](http://smalldatum.blogspot.com/2023/07/fun-with-innodbpagecleaners.html)
 ### innodb_read_io_threads
 - [Tuning innodb_read_io_threads](https://releem.com/docs/mysql-performance-tuning/innodb_read_io_threads)
 - [How do you tune innodb_read_io_threads?](https://dba.stackexchange.com/questions/299461/how-do-you-tune-innodb-read-io-threads)
+### innodb_thread_concurrency
+- [Tuning innodb_thread_concurrency](https://releem.com/docs/mysql-performance-tuning/innodb_thread_concurrency)
+- [Optimizing MySQL Throughput: Fine-Tuning InnoDB Thread Concurrency](https://minervadb.xyz/optimizing-mysql-throughput-fine-tuning-innodb-thread-concurrency/)
 ### innodb_redo_log_capacity
 - [Tuning innodb_redo_log_capacity](https://releem.com/docs/mysql-performance-tuning/innodb_redo_log_capacity)
 - [InnoDB Redo Log](https://mariadb.com/docs/server/server-usage/storage-engines/innodb/innodb-redo-log)
@@ -78,6 +87,9 @@
 ### myisam_sort_buffer_size
 - [Tuning myisam_sort_buffer_size](https://releem.com/docs/mysql-performance-tuning/myisam_sort_buffer_size)
 - [Working With MyISAM in MySQL](https://severalnines.com/blog/working-myisam-mysql/)
+### query_cache_size
+- [Tuning query_cache_size](https://releem.com/docs/mysql-performance-tuning/query_cache_size)
+- [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
 ### query_cache_limit
 - [Tuning query_cache_limit](https://releem.com/docs/mysql-performance-tuning/query_cache_limit)
 - [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
@@ -90,6 +102,9 @@
 ### sort_buffer_size
 - [Tuning sort_buffer_size](https://releem.com/docs/mysql-performance-tuning/sort_buffer_size)
 - [MySQL sort_buffer_size](https://www.educba.com/mysql-sort_buffer_size/)
+### table_definition_cache
+- [Tuning table_definition_cache](https://releem.com/docs/mysql-performance-tuning/table_definition_cache)
+- [MariaDB/MySQL – Table Open Cache & Table Definition Cache](https://sqlconjuror.com/mariadb-mysql-table-open-cache-table-definition-cache/)
 ### thread_cache_size
 - [Tuning thread_cache_size](https://releem.com/docs/mysql-performance-tuning/thread_cache_size)
 - [MySQL Optimization Tip – Thread Cache Size](https://www.navisite.com/blog/mysql-optimization-tip-thread-cache-size/)
