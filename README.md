@@ -103,7 +103,6 @@
 - [Setting optimizer search depth in MySQL | MariaDB](https://mariadb.com/resources/blog/setting-optimizer-search-depth-in-mysql/)
 ### query_cache_type
 - [Tuning query_cache_type](https://releem.com/docs/mysql-performance-tuning/query_cache_type)
-- [Query Cache - Setting Up the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#setting-up-the-query-cache)
 ### query_cache_size
 - [Tuning query_cache_size](https://releem.com/docs/mysql-performance-tuning/query_cache_size)
 - [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
