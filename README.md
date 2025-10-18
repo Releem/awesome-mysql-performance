@@ -22,6 +22,9 @@
 - [Finding an optimal size for Aria Pagecache](https://vettabase.com/sizing-aria-pagecache/)
 - [Aria Pagecache Sizing: Balancing Performance and Resources](https://dbpediablogs.wordpress.com/2023/10/26/aria-pagecache-sizing-balancing-performance-and-resources/)
 - [Video] [Understanding the Page Cache in MariaDB: Is it Shared Across Database Connections?](https://www.youtube.com/watch?v=3PvV6ha77bM)
+### bulk_insert_buffer_size
+- [Tuning bulk_insert_buffer_size](https://releem.com/docs/mysql-performance-tuning/bulk_insert_buffer_size)
+- [How to set bulk_insert_buffer_size in mysql?](https://dba.stackexchange.com/questions/54197/how-to-set-bulk-insert-buffer-size-in-mysql)
 ### innodb_buffer_pool_chunk_size
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
 - [Tuning innodb_buffer_pool_chunk_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_chunk_size)
@@ -114,9 +117,6 @@
 ### table_open_cache
 - [Tuning table_open_cache](https://releem.com/docs/mysql-performance-tuning/table_open_cache)
 - [Optimize table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache)
-### bulk_insert_buffer_size
-- [Tuning bulk_insert_buffer_size](https://releem.com/docs/mysql-performance-tuning/bulk_insert_buffer_size)
-- [How to set bulk_insert_buffer_size in mysql?](https://dba.stackexchange.com/questions/54197/how-to-set-bulk-insert-buffer-size-in-mysql)
 
 ## Talks
 
