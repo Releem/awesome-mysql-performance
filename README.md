@@ -54,6 +54,9 @@
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
+### innodb_max_dirty_pages_pct
+- [Tuning innodb_max_dirty_pages_pct](https://releem.com/docs/mysql-performance-tuning/innodb_max_dirty_pages_pct)
+- [What the Flush? - Hack MySQL](https://hackmysql.com/what-the-flush-mysql-dirty-pages/)
 ### innodb_purge_threads
 - [Tuning innodb_purge_threads](https://releem.com/docs/mysql-performance-tuning/innodb_purge_threads)
 - [InnoDB Purge](https://mariadb.com/docs/server/server-usage/storage-engines/innodb/innodb-purge)
