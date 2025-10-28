@@ -22,6 +22,9 @@
 - [Finding an optimal size for Aria Pagecache](https://vettabase.com/sizing-aria-pagecache/)
 - [Aria Pagecache Sizing: Balancing Performance and Resources](https://dbpediablogs.wordpress.com/2023/10/26/aria-pagecache-sizing-balancing-performance-and-resources/)
 - [Video] [Understanding the Page Cache in MariaDB: Is it Shared Across Database Connections?](https://www.youtube.com/watch?v=3PvV6ha77bM)
+### bulk_insert_buffer_size
+- [Tuning bulk_insert_buffer_size](https://releem.com/docs/mysql-performance-tuning/bulk_insert_buffer_size)
+- [How to set bulk_insert_buffer_size in mysql?](https://dba.stackexchange.com/questions/54197/how-to-set-bulk-insert-buffer-size-in-mysql)
 ### innodb_buffer_pool_chunk_size
 - [InnoDB Buffer Pool Resizing: Chunk Change](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
 - [Tuning innodb_buffer_pool_chunk_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_chunk_size)
@@ -51,6 +54,9 @@
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
+### innodb_max_dirty_pages_pct
+- [Tuning innodb_max_dirty_pages_pct](https://releem.com/docs/mysql-performance-tuning/innodb_max_dirty_pages_pct)
+- [What the Flush? - Hack MySQL](https://hackmysql.com/what-the-flush-mysql-dirty-pages/)
 ### innodb_purge_threads
 - [Tuning innodb_purge_threads](https://releem.com/docs/mysql-performance-tuning/innodb_purge_threads)
 - [InnoDB Purge](https://mariadb.com/docs/server/server-usage/storage-engines/innodb/innodb-purge)
@@ -86,14 +92,14 @@
 - [Rule of thumb for tmp_table_size and max_heap_table_size MySQL properties](https://dba.stackexchange.com/questions/209411/rule-of-thumb-for-tmp-table-size-and-max-heap-table-size-mysql-properties)
 ### query_cache_type
 - [Tuning query_cache_type](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748250544)
+### optimizer_search_depth
+- [Tuning optimizer_search_depth](https://releem.com/docs/mysql-performance-tuning/optimizer_search_depth)
 ### query_cache_size
-- [Tuning query_cache_size](https://releem.com/docs/mysql-performance-tuning/query_cache_size)
-- [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
+- [Tuning query_cache_size](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748234339)
 ### query_cache_limit
-- [Tuning query_cache_limit](https://releem.com/docs/mysql-performance-tuning/query_cache_limit)
-- [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
+- [Tuning query_cache_limit](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748257957)
 ### query_cache_min_res_unit
-- [Tuning query_cache_min_res_unit](https://releem.com/docs/mysql-performance-tuning/query_cache_min_res_unit)
+- [Tuning query_cache_min_res_unit](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748234397)
 - [What is the best setting for query_cache_min_res_unit](https://dba.stackexchange.com/questions/42993/mysql-settings-for-query-cache-min-res-unit)
 ### read_rnd_buffer_size
 - [Tuning read_rnd_buffer_size](https://releem.com/docs/mysql-performance-tuning/read_rnd_buffer_size)
@@ -110,15 +116,17 @@
 ### thread_pool_size
 - [Tuning thread_pool_size](https://releem.com/docs/mysql-performance-tuning/thread_pool_size)
 - [Thread Pool Tuning](https://dev.mysql.com/doc/refman/8.0/en/thread-pool-tuning.html)
+### thread_stack
+- [Tuning thread_stack](https://releem.com/docs/mysql-performance-tuning/thread_stack)
+- [How thread_stack variable relates to amount of UNION in a query?](https://stackoverflow.com/questions/62878636/how-thread-stack-variable-relates-to-amount-of-union-in-a-query?utm_source=chatgpt.com)
 ### tmp_table_size
 - [Tuning tmp_table_size](https://releem.com/docs/mysql-performance-tuning/tmp_table_size)
 - [MySQL tmp_table_size optimization settings for how much appropriate _mysql](https://topic.alibabacloud.com/a/mysql-tmp_table_size-optimization-settings-for-how-much-appropriate-_mysql_1_41_20122890.html)
+### transaction_prealloc_size
+- [Tuning transaction_prealloc_size](https://releem.com/docs/mysql-performance-tuning/transaction_prealloc_size)
 ### table_open_cache
 - [Tuning table_open_cache](https://releem.com/docs/mysql-performance-tuning/table_open_cache)
 - [Optimize table_open_cache](https://mariadb.com/kb/en/optimizing-table_open_cache)
-### bulk_insert_buffer_size
-- [Tuning bulk_insert_buffer_size](https://releem.com/docs/mysql-performance-tuning/bulk_insert_buffer_size)
-- [How to set bulk_insert_buffer_size in mysql?](https://dba.stackexchange.com/questions/54197/how-to-set-bulk-insert-buffer-size-in-mysql)
 
 ## Talks
 
