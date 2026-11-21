@@ -135,4 +135,4 @@
 ## Configuration
 
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make recommendations to increase performance and stability.
-- [Releem](https://releem.com) - Releem is a database advisor for MySQL, MariaDB & PostgreSQL that provides automatic metrics analysis, actionable insights, and safe automation.
+- [Releem](https://releem.com) - Releem is a MySQL performance tuning tool with AI and controlled automation. Improve query performance and resource efficiency with workload-based recommendations.
