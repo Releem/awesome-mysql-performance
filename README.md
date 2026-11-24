@@ -113,6 +113,8 @@
 ### thread_cache_size
 - [Tuning thread_cache_size](https://releem.com/docs/mysql-performance-tuning/thread_cache_size)
 - [MySQL Optimization Tip – Thread Cache Size](https://www.navisite.com/blog/mysql-optimization-tip-thread-cache-size/)
+### thread_handling
+- [Tuning thread_handling](https://releem.com/docs/mysql-performance-tuning/thread_handling)
 ### thread_pool_size
 - [Tuning thread_pool_size](https://releem.com/docs/mysql-performance-tuning/thread_pool_size)
 - [Thread Pool Tuning](https://dev.mysql.com/doc/refman/8.0/en/thread-pool-tuning.html)
