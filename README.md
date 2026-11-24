@@ -90,6 +90,8 @@
 ### max_heap_table_size
 - [Tuning max_heap_table_size](https://releem.com/docs/mysql-performance-tuning/max_heap_table_size)
 - [Rule of thumb for tmp_table_size and max_heap_table_size MySQL properties](https://dba.stackexchange.com/questions/209411/rule-of-thumb-for-tmp-table-size-and-max-heap-table-size-mysql-properties)
+### myisam_sort_buffer_size
+- [Tuning myisam_sort_buffer_size](https://releem.com/docs/mysql-performance-tuning/myisam_sort_buffer_size)
 ### query_cache_type
 - [Tuning query_cache_type](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748250544)
 ### optimizer_search_depth
